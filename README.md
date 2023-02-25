@@ -2,7 +2,7 @@
 #### Mobile development
 ![Mobile development](https://www.zealousweb.com/wp-content/uploads/2021/06/Blog-Banner-9.jpg)
 
-I'm Burkhan Turdialiev, and I make app on Mobile development. I really enjoy learning languages and frameworks like Dart and Flutter. I also enjoy teaching graphic design in general. You can check my Instagram at instagram.com/burhonjon_turdaliyev_ or youtube.com/c/BurhonjonTurdaliyevcopy/paste and use in your profile.
+I'm Burkhan Turdialiev, and I make apps for Mobile development. I really enjoy learning languages and frameworks like Dart and Flutter. I also enjoy teaching graphic design in general. You can check my Instagram at instagram.com/burhonjon_turdaliyev_ or youtube.com/c/BurhonjonTurdaliyevcopy/paste and use in your profile.
 
 Skills: Flutter, Dart / C# / C / Java 
 
@@ -12,14 +12,6 @@ Skills: Flutter, Dart / C# / C / Java
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burhonjonturdaliyev)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=burhonjonturdaliyev&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=burhonjonturdaliyev)  
-
-![GitHub metrics](https://metrics.lecoq.io/burhonjonturdaliyev)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=burhonjonturdaliyev)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=burhonjonturdaliyev&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/burhonjonturdaliyev)  
