@@ -2,7 +2,7 @@
 #### Mobile development
 ![Mobile development](https://www.zealousweb.com/wp-content/uploads/2021/06/Blog-Banner-9.jpg)
 
-I'm Burkhan Turdialiev, and I make apps for Mobile development. I really enjoy learning languages and frameworks like Dart and Flutter. I also enjoy teaching graphic design in general. You can check my Instagram at instagram.com/burhonjon_turdaliyev_ or youtube.com/c/BurhonjonTurdaliyevcopy/paste and use in your profile.
+I'm Burkhan Turdialiev, and I make apps for Mobile development. I really enjoy learning languages and frameworks like Dart and Flutter. I also enjoy teaching graphic design in general.
 
 Skills: Flutter, Dart / C# / C / Java 
 
