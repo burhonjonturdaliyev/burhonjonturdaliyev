@@ -14,4 +14,4 @@ Skills: Flutter, Dart / C# / C / Java
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=burhonjonturdaliyev&show_icons=true)  
 
-![Profile views]![](https://komarev.com/ghpvc/?burhonjonturdaliyev&color=green)
+(https://komarev.com/ghpvc/?burhonjonturdaliyev&color=green)
