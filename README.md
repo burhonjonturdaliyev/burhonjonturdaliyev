@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/burhonjonturdaliyev?tab=repositories](https://github.com/burhonjonturdaliyev?tab=repositories)
 
-- 💬 Ask me about **Flutter creating cross platforms**
+- 💬 Ask me about **Creating cross platforms**
 
 - 📫 How to reach me **burhonjonturdaliyev2003@gmail.com**
 
