@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Burkhonjon Turdialiev</h1>
 <h3 align="center">I'm Burkhan Turdialiev, and I make apps for Mobile development. I really enjoy learning languages and frameworks like Dart and Flutter. I also enjoy teaching graphic design in general</h3>
-
+<a href="https://wakatime.com/@c036c41a-95c9-4907-84df-9b761a8bd439"><img src="https://wakatime.com/badge/user/c036c41a-95c9-4907-84df-9b761a8bd439.svg" alt="Total time coded since Mar 16 2023" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burhonjonturdaliyev&label=Profile%20views&color=0e75b6&style=flat" alt="burhonjonturdaliyev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burhonjonturdaliyev" alt="burhonjonturdaliyev" /></a> </p>
