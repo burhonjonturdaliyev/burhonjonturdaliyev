@@ -39,16 +39,16 @@ Git, GitHub, Android Studio, VS Code, Xcode, Figma
 ## Featured Work
 
 ### 1. [Qarzly ERP](https://github.com/burhonjonturdaliyev/qarzly_erp)
-Multi-surface ERP and POS platform built with Flutter on the frontend and Node.js/PostgreSQL on the backend. The codebase covers admin and seller flows, delivery, finance, inventory, realtime behavior, Firebase integration, and deployment workflows for web and desktop distribution.
+ERP and POS platform for operational workflows across admin, seller, inventory, delivery, and finance. Built with Flutter and a Node.js/PostgreSQL backend, with production deployment at [qarzly.uz](https://qarzly.uz).
 
 ### 2. [Kassa App](https://github.com/burhonjonturdaliyev/kassa_app)
-Structured Flutter POS application organized by feature and domain boundaries. It includes authentication, dashboard flows, inventory, suppliers, transfers, warehouses, stock operations, and reporting-oriented workflows with a maintainable Bloc-based architecture.
+Feature-structured Flutter POS application with Bloc-based state management and clear domain boundaries. Covers authentication, stock control, suppliers, transfers, warehouse operations, and day-to-day retail workflows.
 
 ### 3. [Akfa App](https://github.com/burhonjonturdaliyev/akfa_app)
-Flutter mobile product with practical production concerns such as routing, state management, device integrations, file handling, charts, maps, sharing, and notifications. A good example of delivering product-facing functionality while keeping the app architecture organized and scalable.
+Flutter mobile product focused on practical delivery concerns: routing, state management, device integrations, file handling, maps, charts, sharing, and notifications. Designed to support product growth without losing structure.
 
 ### 4. [Harbiy App](https://github.com/burhonjonturdaliyev/harbiy_app)
-Windows-focused Flutter admin system for battalion and personnel management. Built with Riverpod, Drift, and SQLite, with a feature-oriented structure covering authentication, dashboarding, battalions, categories, personnel, and local data management.
+Windows-focused Flutter admin system for battalion and personnel management. Built with Riverpod, Drift, and SQLite, with a modular feature structure for local-first administration and desktop-oriented workflows.
 
 ---
 
